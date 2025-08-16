@@ -7,8 +7,8 @@ const projects = [
     title: 'Colonial Farmhouse',
     location: 'Charleston, SC',
     date: '2023',
-    before: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-a92c-622f-83dd-361a65a4da98/raw?se=2025-08-16T14%3A04%3A45Z&sp=r&sv=2024-08-04&sr=b&scid=e687026b-ae1b-5f23-a72b-f4b604f567a0&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-16T00%3A25%3A48Z&ske=2025-08-17T00%3A25%3A48Z&sks=b&skv=2024-08-04&sig=oA3P5NcQa70g/%2BOQCjQcrTyaTlI12wCh5qeleZzbK0Q%3D',
-    after: 'https://i.pinimg.com/564x/63/f7/99/63f79916066d6b536c401cea791fc3a9.jpg',
+    before: '/images/before.jpg',
+    after: '/images/after.png',
     description: 'Restored 18th-century farmhouse featuring original hardwood floors and custom millwork throughout.',
   }
 ];

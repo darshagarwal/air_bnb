@@ -80,13 +80,6 @@ const About = () => {
                   className="w-full h-40 object-cover"
                 />
               </div>
-              <div className="rounded-xl overflow-hidden">
-                <img 
-                  src="https://images.pexels.com/photos/1396118/pexels-photo-1396118.jpeg" 
-                  alt="Beautiful restoration detail"
-                  className="w-full h-40 object-cover"
-                />
-              </div>
             </div>
           </div>
         </div>
